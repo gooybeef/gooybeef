@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Thorpe
-- 👀 I’m interested in Clothing and NFTs aswell as creating TradingCards 
-- 🌱 I’m currently learning how to build a business 
-- 💞️ I’m looking to collaborate on NFTs
-- 📫 How to reach me Twitter @ThorpesClothing 
+- 👀 I’m interested in Clothing and NFTs
+- 🌱 I’m currently learning how to build 
+- 📫 How to reach me Twitter @ThorpeAvax
 
 <!---
 Thorpes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
